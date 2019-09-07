@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/housekeeping_p.png"
+image = "img/portfolio/housekeeping_p1.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Redesign Housekeeping application"

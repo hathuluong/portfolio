@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Hospitality Management Application"
 draft = false
-image = "img/portfolio/hotel_p.png"
+image = "img/portfolio/hotel_p1.png"
 showonlyimage = false
 weight = 2
 +++
