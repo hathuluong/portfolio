@@ -7,7 +7,7 @@ draft = false
 weight = 2
 +++
 
-A housekeeping application was redesigned to help users improve their working productivity, lessen their time and easy to use.
+A housekeeping application was redesigned to help users improve their work productivity, save time with a foolproof interface.
 
 UX/UI DESIGN, UX RESEARCH
 

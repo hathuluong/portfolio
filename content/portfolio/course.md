@@ -7,7 +7,7 @@ title = "Moodle - Course Management"
 weight = 2
 +++
 
-An application provides managing courses progress, timetables, deadlines and group discussion.
+An application provides courses management including progress, timetables, deadlines and group discussion.
 
 UI/UX DESIGN
 
