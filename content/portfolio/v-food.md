@@ -15,6 +15,5 @@ Tools: Sketch, InVision
    
 <!--more-->
 
-Overview
 ![Houskeeping](/img/portfolio/v-food.png)
 
